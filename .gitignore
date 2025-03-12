@@ -112,3 +112,4 @@ output/
 *.png
 *.mp4 
 blog.md
+!asset/effect.jpg
