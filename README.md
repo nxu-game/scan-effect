@@ -107,6 +107,14 @@ scan-effect/
 
 高级效果则在此基础上添加了更多视觉处理，如特效滤镜、渐变过渡、多线条和动画效果等。
 
+## 联系方式
+
+如有问题或建议，欢迎通过以下方式联系：
+
+- 微信：znzatop
+
+![微信](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+
 ## 许可证
 
 本项目采用 GNU Affero General Public License v3.0 (AGPL-3.0) 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
