@@ -2,7 +2,7 @@
 
 这个项目实现了一个视频扫描线效果，当扫描线移动时，扫描过的区域显示静止图像，未扫描的区域显示动态视频。这种效果可以用于创建有趣的视觉展示、教学演示或艺术创作。
 
-![扫描线效果示例](https://github.com/wangqiqi/interesting_assets/raw/main/images/effect.jpg)
+![扫描线效果示例](https://github.com/wangqiqi/interesting_assets/raw/main/images/scan_effect.jpg)
 
 ## 功能特点
 
@@ -17,7 +17,7 @@
 - **交互控制**：通过键盘控制暂停/继续、重置扫描线、保存图片等操作
 - **图像翻转**：可选择水平翻转图像，使摄像头捕获的图像方向与实际动作方向一致
 
-![高级效果示例](https://github.com/wangqiqi/interesting_assets/raw/main/images/effect.jpg)
+![高级效果示例](https://github.com/wangqiqi/interesting_assets/raw/main/images/scan_effect.jpg)
 
 ## 安装依赖
 
@@ -113,7 +113,11 @@ scan-effect/
 
 - 微信：znzatop
 
-![微信](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+![微信](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
+
+## 更多项目
+
+更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git
 
 ## 许可证
 
